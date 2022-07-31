@@ -1,0 +1,355 @@
+body{
+    background-color: #1F2235;
+    }
+    img{      
+position: absolute;
+width: 197px;
+height: 113px;
+left: -28px;
+top: -15px;
+    }
+    ::-webkit-scrollbar {
+        width: 8px;
+      }
+      ::-webkit-scrollbar-track {
+        background: #474A59;
+        border-radius: 30px;
+      }
+       
+      ::-webkit-scrollbar-thumb {
+        background: #B92F02;
+        border-radius: 30px;
+      }
+      
+      ::-webkit-scrollbar-thumb:hover {
+        background: #D23804;
+    }
+    .navigation a{
+position: relative;
+width: 94px;
+height: 31px;
+left: 1545px;
+top: 4px;
+padding-left: 30px;
+text-decoration: none;
+
+font-family: 'Jaldi';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 34px;
+
+color: #FFFFFF;
+    }
+    .navigation a:hover{
+        color: #BF3000;
+    }
+    .main h1{
+position: absolute;
+width: 425px;
+height: 82px;
+left: 180px;
+top: 270px;
+
+font-family: 'JejuMyeongjo';
+font-style: normal;
+font-weight: 400;
+font-size: 88px;
+line-height: 95px;
+
+color: #FFFFFF;
+    }
+    .main p{
+position: absolute;
+width: 1122px;
+height: 54px;
+left: 103px;
+top: 430px;
+
+font-family: 'Roboto', sans-serif;
+font-style: Thin 100;
+font-weight: 400;
+font-size: 37px;
+line-height: 37px;
+
+color: #FFFFFF;
+    }
+    .main img{
+position: absolute;
+width: 919px;
+height: 682px;
+left: 947px;
+top: 150px;
+    }
+    .main a{
+position: absolute;
+left: 15px;
+top: 60px
+    }
+    .main .button{
+position: absolute;
+width: 119px;
+height: 119px;
+left: 285px;
+top: 580px;
+background: rgba(191, 48, 0, 0.92);
+border-radius: 25px;
+border: none;
+display: block;
+    }
+    .main .button .material-symbols-rounded{
+        font-size: 100px;
+        color: #1F2235;
+    }
+    .main .button:hover{
+       
+background: #D23804;
+box-shadow: 0px 4px 24px -11px rgba(0, 0, 0, 0.5);
+border-radius: 25px;
+border: none;
+    }
+    .adv{
+        position: absolute;
+left: 150px;
+top: -300px;
+    }
+    .adv .adv1 {
+        position: absolute;
+left: 250px;
+    }
+    .adv li{
+        position: absolute;
+width: 1025px;
+height: 466px;
+left: 63px;
+top: 1629px;
+list-style-type: none;
+padding-left: 0px;
+
+background: rgba(255, 255, 255, 0.18);
+border-radius: 30px;
+    }
+    .adv li h1{
+position: absolute;
+left: 50px;
+top: -80px;
+
+font-family: 'Roboto', sans-serif;
+font-style: bold 700;
+font-weight: 700;
+font-size: 83px;
+line-height: 145px;
+
+color: #FFFFFF;
+    }
+    .adv li h2{
+        position: absolute;
+width: 39px;
+height: 54px;
+padding-left: 20px;
+padding-top: 20px;
+
+font-family: 'JejuMyeongjo';
+font-style: normal;
+font-weight: 400;
+font-size: 101px;
+line-height: 101px;
+
+color: #FFFFFF;
+    }
+    .adv li h3{
+        position: absolute;
+        width: 402px;
+        height: 95px;
+        left: 10px;
+        top: 89px;
+        
+        font-family:'Roboto', sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 35px;
+        line-height: 35px;
+        
+        color: #FFFFFF;
+    }
+    
+    .adv img{
+        position: absolute;
+width: 942px;
+height: 628px;
+left: 474px;
+top: 1403px;
+
+border-radius: 30px;
+    }
+    .adv .cup{
+        position: absolute;
+        width: 1000px;
+        height: 1000px;
+        left: -145px;
+        top: 1250px;
+        z-index:-1;
+
+    }
+    .teachers li{
+        position: absolute;
+width: 561px;
+height: 525px;
+background: rgba(255, 255, 255, 0.18);
+border-radius: 25px;
+list-style-type: none;
+    }
+    .teachers .Geo{
+        left: 1300px;
+top: 2200px;
+    }
+    .teachers .Eng{
+        left: 670px;
+top: 2200px;
+    }
+    .teachers .Math{
+        right: 1300px;
+top: 2200px;
+    }
+    .teachers .Geo a{
+        position: absolute;
+width: 525px;
+height: 95px;
+left: 55px;
+top: 420px;
+text-decoration: none;
+font-family: 'Roboto', sans-serif;
+font-style: bold 700;
+font-weight: 700;
+font-size: 62px;
+line-height: 108px;
+
+color: #FFFFFF;
+    }
+    .teachers .Eng a{
+        position: absolute;
+width: 525px;
+height: 95px;
+left: 55px;
+top: 420px;
+text-decoration: none;
+font-family: 'Roboto', sans-serif;
+font-style: bold 700;
+font-weight: 700;
+font-size: 62px;
+line-height: 108px;
+
+color: #FFFFFF;
+
+    }
+    .teachers .Math a{
+        position: absolute;
+width: 525px;
+height: 95px;
+left: 85px;
+top: 420px;
+text-decoration: none;
+font-family: 'Roboto', sans-serif;
+font-style: bold 700;
+font-weight: 700;
+font-size: 62px;
+line-height: 108px;
+
+color: #FFFFFF;
+
+    }
+    .teachers .Geo img{
+position: absolute;
+width: 500px;
+height: 500px;
+left: 30px;
+top: -90px;
+border-radius: 25px;
+    }
+    .teachers .Eng img{
+        position: absolute;
+        width: 500px;
+        height: 500px;
+        left: 30px;
+        top: -90px;
+        border-radius: 25px;
+            }
+    .teachers .Math img{
+        position: absolute;
+        width: 500px;
+        height: 500px;
+        left: 30px;
+        top: -90px;
+        border-radius: 25px;
+                    }
+    .teachers li a:hover{
+        color: #BF3000;
+    }
+    .late .container img{
+        position: absolute;
+width: 1463px;
+height: 654px;
+left: 250px;
+top: 3100px;
+
+    }
+    .late .container .button{
+        position: absolute;
+width: 264px;
+height: 137px;
+left: 800px;
+top: 3100px;
+
+background: #B92F02;
+border-radius: 30px;
+border: none;
+
+font-family: 'Roboto', sans-serif;
+font-style: bold 700;
+font-size: 50px;
+line-height: 123px;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    }
+    .late .container .button:hover{
+        background: #D23804;
+box-shadow: 0px 4px 24px -11px rgba(0, 0, 0, 0.5);
+border-radius: 25px;
+border: none;
+    }
+    .late h1{
+        position: absolute;
+width: 400px;
+height: 82px;
+left: 750px;
+top: 2850px;
+
+font-family: 'Roboto', sans-serif;
+font-style: bold 700;
+font-size: 88px;
+line-height: 95px;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 32px rgba(0, 0, 0, 0.25);
+    }
+    .late h2{
+        position: absolute;
+        width: 1122px;
+        height: 54px;
+left: 450px;
+top: 3000px;
+
+font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 37px;
+line-height: 37px;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 32px rgba(0, 0, 0, 0.25);
+    }
+
